@@ -1,0 +1,2 @@
+# talitha-resolusi
+Resolusi Talitha
